@@ -1,5 +1,5 @@
 /*
- * This project is made by Zander Coffman (@zciplier on GitHub) on the date of 9/18/2022
+ * This project is made by @zciplier on the date of 9/18/2022
  * This program gets the user's input of whether they have a cent, dime, nickel, or a quarter
  * and multiplies it by the price of the value and adds it to the money variable to get the total
  * and then prints it to console.
